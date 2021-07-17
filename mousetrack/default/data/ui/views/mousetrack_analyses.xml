@@ -2,7 +2,7 @@
   <label>MouseTrack Analyses</label>
   <fieldset submitButton="false">
     <input type="dropdown" token="show_setup">
-      <label>Show preprocessing SPL</label>
+      <label>Show Setup Instructions</label>
       <choice value="1">Yes</choice>
       <choice value="0">No</choice>
       <change>
